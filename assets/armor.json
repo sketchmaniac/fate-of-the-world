@@ -1,0 +1,998 @@
+[
+  {
+    "class": "Body Armor",
+    "armors": [
+      {
+        "name": "Leather Vest",
+        "defense": {
+          "min": 8,
+          "max": 12
+        }
+      },
+      {
+        "name": "Studded Leather Armor",
+        "defense": {
+          "min": 10,
+          "max": 15
+        },
+        "requirements": {
+          "level": 10,
+          "strength": 10
+        }
+      },
+      {
+        "name": "Initiate's Robe",
+        "defense": {
+          "min": 9,
+          "max": 16
+        },
+        "requirements": {
+          "level": 20,
+          "strength": 20
+        }
+      },
+      {
+        "name": "Chain Mail",
+        "defense": {
+          "min": 14,
+          "max": 21
+        },
+        "requirements": {
+          "level": 30,
+          "strength": 30
+        }
+      },
+      {
+        "name": "Sorcerer's Robe",
+        "defense": {
+          "min": 13,
+          "max": 21
+        },
+        "requirements": {
+          "level": 40,
+          "strength": 40
+        }
+      },
+      {
+        "name": "Banded Mail",
+        "defense": {
+          "min": 17,
+          "max": 25
+        },
+        "requirements": {
+          "level": 50,
+          "strength": 50
+        }
+      },
+      {
+        "name": "Ring Mail",
+        "defense": {
+          "min": 22,
+          "max": 30
+        },
+        "requirements": {
+          "level": 60,
+          "strength": 60
+        }
+      },
+      {
+        "name": "Adept's Robe",
+        "defense": {
+          "min": 20,
+          "max": 30
+        },
+        "requirements": {
+          "level": 70,
+          "strength": 70
+        }
+      },
+      {
+        "name": "Half Plate",
+        "defense": {
+          "min": 28,
+          "max": 36
+        },
+        "requirements": {
+          "level": 80,
+          "strength": 80
+        }
+      },
+      {
+        "name": "Wizard's Robe",
+        "defense": {
+          "min": 25,
+          "max": 38
+        },
+        "requirements": {
+          "level": 90,
+          "strength": 90
+        }
+      },
+      {
+        "name": "Full Plate",
+        "defense": {
+          "min": 36,
+          "max": 48
+        },
+        "requirements": {
+          "level": 100,
+          "strength": 100
+        }
+      },
+      {
+        "name": "Guardian Plate",
+        "defense": {
+          "min": 42,
+          "max": 52
+        },
+        "requirements": {
+          "level": 110,
+          "strength": 110
+        }
+      },
+      {
+        "name": "Master's Robe",
+        "defense": {
+          "min": 44,
+          "max": 55
+        },
+        "requirements": {
+          "level": 120,
+          "strength": 120
+        }
+      },
+      {
+        "name": "Splint Mail",
+        "defense": {
+          "min": 50,
+          "max": 65
+        },
+        "requirements": {
+          "level": 130,
+          "strength": 130
+        }
+      },
+      {
+        "name": "Elphame Armor",
+        "defense": {
+          "min": 60,
+          "max": 75
+        },
+        "requirements": {
+          "level": 140,
+          "strength": 140
+        }
+      }
+    ]
+  },
+  {
+    "class": "Head Armor",
+    "armors": [
+      {
+        "name": "Leather Cap",
+        "defense": {
+          "min": 8,
+          "max": 12
+        }
+      },
+      {
+        "name": "Thorn Cap",
+        "defense": {
+          "min": 10,
+          "max": 15
+        },
+        "requirements": {
+          "level": 10,
+          "strength": 10
+        }
+      },
+      {
+        "name": "Sorcerer's Hat",
+        "defense": {
+          "min": 9,
+          "max": 16
+        },
+        "requirements": {
+          "level": 20,
+          "strength": 20
+        }
+      },
+      {
+        "name": "Necromancer's Hat",
+        "defense": {
+          "min": 14,
+          "max": 21
+        },
+        "requirements": {
+          "level": 30,
+          "strength": 30
+        }
+      },
+      {
+        "name": "Helm",
+        "defense": {
+          "min": 13,
+          "max": 21
+        },
+        "requirements": {
+          "level": 40,
+          "strength": 40
+        }
+      },
+      {
+        "name": "Adept's Hat",
+        "defense": {
+          "min": 17,
+          "max": 25
+        },
+        "requirements": {
+          "level": 50,
+          "strength": 50
+        }
+      },
+      {
+        "name": "Guardian Helm",
+        "defense": {
+          "min": 22,
+          "max": 30
+        },
+        "requirements": {
+          "level": 60,
+          "strength": 60
+        }
+      },
+      {
+        "name": "Great Helm",
+        "defense": {
+          "min": 20,
+          "max": 30
+        },
+        "requirements": {
+          "level": 70,
+          "strength": 70
+        }
+      },
+      {
+        "name": "Master's Hat",
+        "defense": {
+          "min": 28,
+          "max": 36
+        },
+        "requirements": {
+          "level": 80,
+          "strength": 80
+        }
+      },
+      {
+        "name": "Archer Cap",
+        "defense": {
+          "min": 25,
+          "max": 38
+        },
+        "requirements": {
+          "level": 90,
+          "strength": 90
+        }
+      },
+      {
+        "name": "Boar's Helm",
+        "defense": {
+          "min": 36,
+          "max": 48
+        },
+        "requirements": {
+          "level": 100,
+          "strength": 100
+        }
+      },
+      {
+        "name": "Wizard's Hat",
+        "defense": {
+          "min": 42,
+          "max": 52
+        },
+        "requirements": {
+          "level": 110,
+          "strength": 110
+        }
+      },
+      {
+        "name": "Imperial Helm",
+        "defense": {
+          "min": 44,
+          "max": 55
+        },
+        "requirements": {
+          "level": 120,
+          "strength": 120
+        }
+      },
+      {
+        "name": "Full Helm",
+        "defense": {
+          "min": 50,
+          "max": 65
+        },
+        "requirements": {
+          "level": 130,
+          "strength": 130
+        }
+      },
+      {
+        "name": "Military Helm",
+        "defense": {
+          "min": 60,
+          "max": 75
+        },
+        "requirements": {
+          "level": 140,
+          "strength": 140
+        }
+      }
+    ]
+  },
+  {
+    "class": "Hands",
+    "armors": [
+      {
+        "name": "Soft Gloves",
+        "defense": {
+          "min": 8,
+          "max": 12
+        }
+      },
+      {
+        "name": "Leather Gloves",
+        "defense": {
+          "min": 10,
+          "max": 15
+        },
+        "requirements": {
+          "level": 10,
+          "strength": 10
+        }
+      },
+      {
+        "name": "Horned Leather Gloves",
+        "defense": {
+          "min": 9,
+          "max": 16
+        },
+        "requirements": {
+          "level": 20,
+          "strength": 20
+        }
+      },
+      {
+        "name": "Chain Gloves",
+        "defense": {
+          "min": 14,
+          "max": 21
+        },
+        "requirements": {
+          "level": 30,
+          "strength": 30
+        }
+      },
+      {
+        "name": "Rugged Gloves",
+        "defense": {
+          "min": 13,
+          "max": 21
+        },
+        "requirements": {
+          "level": 40,
+          "strength": 40
+        }
+      },
+      {
+        "name": "Scale Gloves",
+        "defense": {
+          "min": 17,
+          "max": 25
+        },
+        "requirements": {
+          "level": 50,
+          "strength": 50
+        }
+      },
+      {
+        "name": "Ring Gloves",
+        "defense": {
+          "min": 22,
+          "max": 30
+        },
+        "requirements": {
+          "level": 60,
+          "strength": 60
+        }
+      },
+      {
+        "name": "Enchanter's Gloves",
+        "defense": {
+          "min": 20,
+          "max": 30
+        },
+        "requirements": {
+          "level": 70,
+          "strength": 70
+        }
+      },
+      {
+        "name": "Wizard's Gloves",
+        "defense": {
+          "min": 28,
+          "max": 36
+        },
+        "requirements": {
+          "level": 80,
+          "strength": 80
+        }
+      },
+      {
+        "name": "Adept's Gloves",
+        "defense": {
+          "min": 25,
+          "max": 38
+        },
+        "requirements": {
+          "level": 90,
+          "strength": 90
+        }
+      },
+      {
+        "name": "Banded Gauntlets",
+        "defense": {
+          "min": 36,
+          "max": 48
+        },
+        "requirements": {
+          "level": 100,
+          "strength": 100
+        }
+      },
+      {
+        "name": "Half Plate Gauntlets",
+        "defense": {
+          "min": 42,
+          "max": 52
+        },
+        "requirements": {
+          "level": 110,
+          "strength": 110
+        }
+      },
+      {
+        "name": "Full Plate Gauntlets",
+        "defense": {
+          "min": 44,
+          "max": 55
+        },
+        "requirements": {
+          "level": 120,
+          "strength": 120
+        }
+      },
+      {
+        "name": "Splint Gloves",
+        "defense": {
+          "min": 50,
+          "max": 65
+        },
+        "requirements": {
+          "level": 130,
+          "strength": 130
+        }
+      },
+      {
+        "name": "Spiked Plate Gauntlets",
+        "defense": {
+          "min": 60,
+          "max": 75
+        },
+        "requirements": {
+          "level": 140,
+          "strength": 140
+        }
+      }
+    ]
+  },
+  {
+    "class": "Feet",
+    "armors": [
+      {
+        "name": "Leather Boots",
+        "defense": {
+          "min": 8,
+          "max": 12
+        }
+      },
+      {
+        "name": "Horned Boots",
+        "defense": {
+          "min": 10,
+          "max": 15
+        },
+        "requirements": {
+          "level": 10,
+          "strength": 10
+        }
+      },
+      {
+        "name": "Heavy Boots",
+        "defense": {
+          "min": 9,
+          "max": 16
+        },
+        "requirements": {
+          "level": 20,
+          "strength": 20
+        }
+      },
+      {
+        "name": "Chain Boots",
+        "defense": {
+          "min": 14,
+          "max": 21
+        },
+        "requirements": {
+          "level": 30,
+          "strength": 30
+        }
+      },
+      {
+        "name": "Sturdy Boots",
+        "defense": {
+          "min": 13,
+          "max": 21
+        },
+        "requirements": {
+          "level": 40,
+          "strength": 40
+        }
+      },
+      {
+        "name": "Scale Boots",
+        "defense": {
+          "min": 17,
+          "max": 25
+        },
+        "requirements": {
+          "level": 50,
+          "strength": 50
+        }
+      },
+      {
+        "name": "Ring Boots",
+        "defense": {
+          "min": 22,
+          "max": 30
+        },
+        "requirements": {
+          "level": 60,
+          "strength": 60
+        }
+      },
+      {
+        "name": "Royal Boots",
+        "defense": {
+          "min": 20,
+          "max": 30
+        },
+        "requirements": {
+          "level": 70,
+          "strength": 70
+        }
+      },
+      {
+        "name": "Banded Boots",
+        "defense": {
+          "min": 28,
+          "max": 36
+        },
+        "requirements": {
+          "level": 80,
+          "strength": 80
+        }
+      },
+      {
+        "name": "Splint Boots",
+        "defense": {
+          "min": 25,
+          "max": 38
+        },
+        "requirements": {
+          "level": 90,
+          "strength": 90
+        }
+      },
+      {
+        "name": "Heavy Studded Boots",
+        "defense": {
+          "min": 36,
+          "max": 48
+        },
+        "requirements": {
+          "level": 100,
+          "strength": 100
+        }
+      },
+      {
+        "name": "Half Plate Boots",
+        "defense": {
+          "min": 42,
+          "max": 52
+        },
+        "requirements": {
+          "level": 110,
+          "strength": 110
+        }
+      },
+      {
+        "name": "Master's Boots",
+        "defense": {
+          "min": 44,
+          "max": 55
+        },
+        "requirements": {
+          "level": 120,
+          "strength": 120
+        }
+      },
+      {
+        "name": "Full Plate Boots",
+        "defense": {
+          "min": 50,
+          "max": 65
+        },
+        "requirements": {
+          "level": 130,
+          "strength": 130
+        }
+      },
+      {
+        "name": "Champion Boots",
+        "defense": {
+          "min": 60,
+          "max": 75
+        },
+        "requirements": {
+          "level": 140,
+          "strength": 140
+        }
+      }
+    ]
+  },
+  {
+    "class": "Pants",
+    "armors": [
+      {
+        "name": "Light Pants",
+        "defense": {
+          "min": 8,
+          "max": 12
+        }
+      },
+      {
+        "name": "Cloth Pants",
+        "defense": {
+          "min": 10,
+          "max": 15
+        },
+        "requirements": {
+          "level": 10,
+          "strength": 10
+        }
+      },
+      {
+        "name": "Leather Pants",
+        "defense": {
+          "min": 9,
+          "max": 16
+        },
+        "requirements": {
+          "level": 20,
+          "strength": 20
+        }
+      },
+      {
+        "name": "Gemmed Pants",
+        "defense": {
+          "min": 14,
+          "max": 21
+        },
+        "requirements": {
+          "level": 30,
+          "strength": 30
+        }
+      },
+      {
+        "name": "Heavy Pants",
+        "defense": {
+          "min": 13,
+          "max": 21
+        },
+        "requirements": {
+          "level": 40,
+          "strength": 40
+        }
+      },
+      {
+        "name": "Adept's Pants",
+        "defense": {
+          "min": 17,
+          "max": 25
+        },
+        "requirements": {
+          "level": 50,
+          "strength": 50
+        }
+      },
+      {
+        "name": "Mage's Pants",
+        "defense": {
+          "min": 22,
+          "max": 30
+        },
+        "requirements": {
+          "level": 60,
+          "strength": 60
+        }
+      },
+      {
+        "name": "Plate Pants",
+        "defense": {
+          "min": 20,
+          "max": 30
+        },
+        "requirements": {
+          "level": 70,
+          "strength": 70
+        }
+      },
+      {
+        "name": "Heavy Studded Pants",
+        "defense": {
+          "min": 28,
+          "max": 36
+        },
+        "requirements": {
+          "level": 80,
+          "strength": 80
+        }
+      },
+      {
+        "name": "Necromancer's Pants",
+        "defense": {
+          "min": 25,
+          "max": 38
+        },
+        "requirements": {
+          "level": 90,
+          "strength": 90
+        }
+      },
+      {
+        "name": "Banded Pants",
+        "defense": {
+          "min": 36,
+          "max": 48
+        },
+        "requirements": {
+          "level": 100,
+          "strength": 100
+        }
+      },
+      {
+        "name": "Splint Pants",
+        "defense": {
+          "min": 42,
+          "max": 52
+        },
+        "requirements": {
+          "level": 110,
+          "strength": 110
+        }
+      },
+      {
+        "name": "Scale Pants",
+        "defense": {
+          "min": 44,
+          "max": 55
+        },
+        "requirements": {
+          "level": 120,
+          "strength": 120
+        }
+      },
+      {
+        "name": "Guardian Pants",
+        "defense": {
+          "min": 50,
+          "max": 65
+        },
+        "requirements": {
+          "level": 130,
+          "strength": 130
+        }
+      },
+      {
+        "name": "Champion Pants",
+        "defense": {
+          "min": 60,
+          "max": 75
+        },
+        "requirements": {
+          "level": 140,
+          "strength": 140
+        }
+      }
+    ]
+  },
+  {
+    "class": "Shields",
+    "shields": [
+      {
+        "name": "Small Shield",
+        "defense": {
+          "min": 8,
+          "max": 12
+        }
+      },
+      {
+        "name": "Buckler",
+        "defense": {
+          "min": 10,
+          "max": 15
+        },
+        "requirements": {
+          "level": 10,
+          "strength": 10
+        }
+      },
+      {
+        "name": "Round Shield",
+        "defense": {
+          "min": 9,
+          "max": 16
+        },
+        "requirements": {
+          "level": 20,
+          "strength": 20
+        }
+      },
+      {
+        "name": "Large Shield",
+        "defense": {
+          "min": 14,
+          "max": 21
+        },
+        "requirements": {
+          "level": 30,
+          "strength": 30
+        }
+      },
+      {
+        "name": "Kite Shield",
+        "defense": {
+          "min": 13,
+          "max": 21
+        },
+        "requirements": {
+          "level": 40,
+          "strength": 40
+        }
+      },
+      {
+        "name": "Studded Large Shield",
+        "defense": {
+          "min": 17,
+          "max": 25
+        },
+        "requirements": {
+          "level": 50,
+          "strength": 50
+        }
+      },
+      {
+        "name": "Cyber Shield",
+        "defense": {
+          "min": 22,
+          "max": 30
+        },
+        "requirements": {
+          "level": 60,
+          "strength": 60
+        }
+      },
+      {
+        "name": "Tower Shield",
+        "defense": {
+          "min": 20,
+          "max": 30
+        },
+        "requirements": {
+          "level": 70,
+          "strength": 70
+        }
+      },
+      {
+        "name": "Crusader Shield",
+        "defense": {
+          "min": 28,
+          "max": 36
+        },
+        "requirements": {
+          "level": 80,
+          "strength": 80
+        }
+      },
+      {
+        "name": "Military Shield",
+        "defense": {
+          "min": 25,
+          "max": 38
+        },
+        "requirements": {
+          "level": 90,
+          "strength": 90
+        }
+      },
+      {
+        "name": "Spiked Kite Shield",
+        "defense": {
+          "min": 36,
+          "max": 48
+        },
+        "requirements": {
+          "level": 100,
+          "strength": 100
+        }
+      },
+      {
+        "name": "Skull Shield",
+        "defense": {
+          "min": 42,
+          "max": 52
+        },
+        "requirements": {
+          "level": 110,
+          "strength": 110
+        }
+      },
+      {
+        "name": "Spiked Tower Shield",
+        "defense": {
+          "min": 44,
+          "max": 55
+        },
+        "requirements": {
+          "level": 120,
+          "strength": 120
+        }
+      },
+      {
+        "name": "Champion Shield",
+        "defense": {
+          "min": 50,
+          "max": 65
+        },
+        "requirements": {
+          "level": 130,
+          "strength": 130
+        }
+      },
+      {
+        "name": "Elphame Shield",
+        "defense": {
+          "min": 60,
+          "max": 75
+        },
+        "requirements": {
+          "level": 140,
+          "strength": 140
+        }
+      }
+    ]
+  }
+]
